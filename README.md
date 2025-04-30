@@ -7,7 +7,7 @@ I'm a passionate full-stack developer with a strong background in PHP, JavaScrip
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-- **PHP** (Core PHP, Laravel, Parallel)
+- **PHP** (Core PHP, Laravel)
 - **JavaScript** (Vanilla JS, ES6+)
 
 ### 🌐 Frontend Development
@@ -28,7 +28,7 @@ I'm a passionate full-stack developer with a strong background in PHP, JavaScrip
 
 ### 🧩 Additional
 - **Postman** (API Testing)
-- **PTC** (Please clarify what tool this refers to if you'd like it expanded)
+- **PHP unit testing** 
 
 ---
 
